@@ -75,25 +75,14 @@ nav ul{
     /*this is the styling of about section*/
     
     
-    .mypic{
-        height: 500px;
-        
-        border: 8px solid #00334d;
-        border-radius: 80%;
-        float: right;
-        
-        
-        
-        
-    }
+     
+      
     .aboutme{
         color: #00334d;
         float: left;
         
         
         transform: translateY(20vh);
-        
-        
         
     }
     .aboutme h2{
@@ -106,9 +95,5 @@ nav ul{
     font-weight: 600;
     padding: 40px;
 }
-.learnmore{
-    background:orange;
-    color:black;
-         
-}
+
 
