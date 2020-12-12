@@ -1,0 +1,35 @@
+
+.skills{
+    background-image:url("https://images.unsplash.com/photo-1596003906949-67221c37965c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    text-align: center;
+}
+.askills{
+    
+    width: 50%;
+    
+    transform: translateX(45vh);
+    
+}
+.skills h1{
+    font-size: 60px;
+    text-shadow: 2px 2px white;
+}
+.skills p{
+    color:wheat;
+    
+     font-size:20px;
+     padding:30px;
+     
+}
+.aboutp{
+    background-color:red;
+    padding: 5px;
+
+}
+.aboutn{
+    background-color:red;
+    padding: 5px;
+}
