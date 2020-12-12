@@ -1,0 +1,97 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+
+}
+body{
+    font-family: "Playfair Display",sans-serif;
+}
+a{
+    text-decoration:none;
+    color:whitesmoke;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+/*styling the navigation bar*/
+
+.container{
+    background-color:#00334d;
+    color:white;
+    height: 100px;
+    margin: auto;
+    
+}
+nav h2{
+    float:left;
+    padding: 0 20px;
+    line-height: 100px;
+    font-weight: 900;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+nav ul{
+    float:right;
+}
+ nav ul li{
+      padding: 0 20px;
+     line-height: 100px;
+     display: inline-block;
+ }
+ a:hover{
+     color:#00334d;
+     background-color: white;
+ }
+ /*styling the about section*/
+ 
+ .about{
+     background-image:url("https://images.pexels.com/photos/19679/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+     background-size: cover;
+     background-repeat: no-repeat;
+     height: 100vh;
+    
+    
+ }
+ .about h1{
+     color:black;
+     text-shadow: 1px 1px white;
+
+     font-weight: bolder;
+     font-size:60px;
+     text-align:center;
+ }
+ .about p{
+     color:white;
+     font-size:20px;
+     padding:30px;
+ }
+ .about h3{
+     color: black;
+     font-size:40px;
+     font-weight:bold;
+     padding:30px;
+ }
+ .about ol{
+     color:white;
+     font-size: 20px;
+     padding:40px;
+ }
+ .aboutcontent{
+     float: left;
+ }
+ img{
+     height:400px;
+     float: right;
+     padding: 0 50px;
+ }
+ .aboutp{
+     background-color:red;
+     padding: 5px;
+     transform: translateY(45kv);
+
+ }
+ .aboutn{
+     background-color:red;
+     padding: 5px;
+ }
+ 
