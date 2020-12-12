@@ -5,7 +5,7 @@
 
 }
 body{
-    font-family: "Playfair Display",sans-serif;
+font-family: 'Raleway', sans-serif;
 }
 a{
     text-decoration:none;
@@ -45,32 +45,21 @@ nav ul{
  /*styling the about section*/
  
  .about{
-     background-image:url("https://images.pexels.com/photos/19679/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+     background-image:url("https://images.pexels.com/photos/19679/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
      background-size: cover;
      background-repeat: no-repeat;
      height: 100vh;
     
     
  }
- .about h1{
-     color:black;
-     text-shadow: 1px 1px white;
-
-     font-weight: bolder;
-     font-size:60px;
-     text-align:center;
- }
+ 
  .about p{
-     color:white;
+     color:darkred;
      font-size:20px;
      padding:30px;
  }
- .about h3{
-     color: black;
-     font-size:40px;
-     font-weight:bold;
-     padding:30px;
- }
+ 
+ 
  .about ol{
      color:white;
      font-size: 20px;
